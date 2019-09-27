@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://byneet.github.io/categories/</loc>
+    <loc>http://byneet.github.io/</loc>
+    <lastmod>2019-09-27T09:36:30+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://byneet.github.io/</loc>
+    <loc>http://byneet.github.io/post/new-post/</loc>
+    <lastmod>2019-09-27T09:36:30+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://byneet.github.io/post/</loc>
+    <lastmod>2019-09-27T09:36:30+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://byneet.github.io/categories/</loc>
   </url>
   
   <url>
